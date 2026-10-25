@@ -43,7 +43,11 @@ export default function CaseStudies() {
           </h2>
           <p className="text-paper/70 max-w-md text-[15px] leading-relaxed">
             Six subreddits I built from scratch, and a network of five
-            more compounding the reach of a single brand.
+            more compounding the reach of a single brand. That growth
+            came from brand placement built into the communities
+            themselves — the brand&apos;s themes, content, and
+            recommendations woven into each subreddit, so members
+            discover it through the community, not through ads.
           </p>
         </div>
 
