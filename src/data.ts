@@ -60,9 +60,9 @@ export const services = [
 
 export const totals = [
   { value: "100M+", label: "Views Generated" },
-  { value: "300K+", label: "Members Built" },
+  { value: "439K+", label: "Members Built" },
   { value: "10+", label: "Subreddits Managed" },
-  { value: "4-5 mo", label: "Avg. 0 → 25K Growth" },
+  { value: "2-3 mo", label: "Avg. 0 → 25K Growth" },
 ];
 
 export const caseStudies: CaseStudy[] = [
