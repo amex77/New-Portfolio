@@ -84,9 +84,13 @@ export default function CaseStudies() {
               </div>
 
               <p className="relative mt-6 text-[14px] leading-relaxed text-paper/75">
-                <span className="text-paper font-medium">
-                  Started at {c.started} members.
-                </span>{" "}
+                {c.started !== "—" && (
+                  <>
+                    <span className="text-paper font-medium">
+                      Started at {c.started} members.
+                    </span>{" "}
+                  </>
+                )}
                 {c.story}
               </p>
 
