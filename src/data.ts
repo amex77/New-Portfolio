@@ -14,9 +14,9 @@ export type CaseStudy = {
 
 export const heroStats = [
   { value: "10+", label: "Subreddits Built" },
-  { value: "290K+", label: "Total Members" },
+  { value: "439K+", label: "Total Members" },
   { value: "100M+", label: "Views Generated" },
-  { value: "4-5 mo", label: "0 → 25K+ Growth" },
+  { value: "2-3 mo", label: "0 → 25K+ Growth" },
 ];
 
 export const approachSteps = [
