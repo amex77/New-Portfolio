@@ -39,7 +39,7 @@ export default function Hero() {
       <div className="absolute -top-40 left-1/2 -translate-x-1/2 h-[600px] w-[1100px] rounded-full bg-flame/10 blur-3xl" />
       <div className="absolute top-1/3 -right-40 h-[420px] w-[420px] rounded-full bg-amber/10 blur-3xl" />
 
-      <div className="relative mx-auto max-w-7xl px-6 lg:px-10 pt-36 md:pt-44 pb-24 text-center">
+      <div className="relative mx-auto max-w-7xl px-6 lg:px-10 pt-32 md:pt-40 pb-24 text-center">
         <div className="flex items-center justify-center gap-3 text-mist">
           <span className="inline-block h-2 w-2 rounded-full bg-flame ticker" />
           <span className="eyebrow">Community Growth Specialist</span>
