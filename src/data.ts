@@ -153,12 +153,12 @@ export const clients = [
     name: "Befreed",
     meta: "7 to 8 Months · 10+ Subreddits",
     subs: [
-      "r/MotivationByDesign",
-      "r/RelentlessMen",
       "r/MenOfPurpose",
-      "r/PotentialUnlocked",
-      "r/SelfDevDaily",
-      "r/PsycheSystems",
+      "r/GrowthMindsetbookclub",
+      "r/MotivationByDesign",
+      "r/PolymathReading",
+      "r/AttractionDynamics",
+      "r/explainlikeimfivebook",
       "r/SocialBlueprint",
       "r/PrimeManhood",
       "r/SocialChemistry"
