@@ -67,11 +67,11 @@ export default function Hero() {
           style={{ transitionDelay: "260ms" }}
         >
           <p className="mx-auto text-center text-paper/80 text-lg leading-relaxed max-w-xl">
-            I don't just manage subreddits. I build entire{" "}
-            <span className="text-paper">Reddit ecosystems</span> around a
-            brand. Multiple communities, each targeting a different angle of
-            the same audience, growing in parallel and compounding each
-            other's reach.
+            I don&apos;t just manage communities. I build entire ecosystems
+            around a brand. Multiple communities from different platforms
+            like Reddit, Discord, Instagram, and TikTok, each targeting a
+            different angle of the same audience, growing in parallel and
+            compounding each other&apos;s reach.
           </p>
         </div>
 
