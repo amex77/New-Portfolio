@@ -129,7 +129,7 @@ export const caseStudies: CaseStudy[] = [
     weeklyVisitors: "80K+",
     weeklyContributions: "1.1K+",
     started: "—",
-    story: "Built a relationship and confidence community around practical social skills, then converted private learners into BeFreed users with discreet audio lessons on communication and attraction.",
+    story: "Built an attraction psychology community around real interaction breakdowns and charisma, then converted confidence-seekers into BeFreed users via audio lessons on body language, conversation, and emotional intelligence.",
     url: "https://www.reddit.com/r/AttractionDynamics/",
     accent: "from-yellow-300 to-amber-500",
   },
