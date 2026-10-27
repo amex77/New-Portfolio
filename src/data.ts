@@ -74,7 +74,7 @@ export const caseStudies: CaseStudy[] = [
     annualViews: "9.1M",
     weeklyVisitors: "100K+",
     weeklyContributions: "2K+",
-    started: "24",
+    started: "—",
     story:
       "Built a men's discipline and purpose community around routines and 30-day challenges, then converted high-intent members into BeFreed subscribers via personalized daily learning roadmaps.",
     url: "https://www.reddit.com/r/MenOfPurpose/",
@@ -101,7 +101,7 @@ export const caseStudies: CaseStudy[] = [
     annualViews: "10.2M",
     weeklyVisitors: "70K+",
     weeklyContributions: "1.8K",
-    started: "60",
+    started: "—",
     story:
       "Built a broad motivation community around systems over willpower, then funneled its high-volume traffic into a daily micro-learning habit on BeFreed.",
     url: "https://www.reddit.com/r/MotivationByDesign/",
