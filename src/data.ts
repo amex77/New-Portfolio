@@ -76,7 +76,7 @@ export const caseStudies: CaseStudy[] = [
     weeklyContributions: "2K+",
     started: "—",
     story:
-      "Built a men's discipline and purpose community around routines and 30-day challenges, then converted high-intent members into BeFreed subscribers via personalized daily learning roadmaps.",
+      "Built a men's discipline and purpose community around male audience, then converted high-intent members into BeFreed subscribers via personalized daily learning roadmaps.",
     url: "https://www.reddit.com/r/MenOfPurpose/",
     accent: "from-emerald-300 to-teal-500",
   },
